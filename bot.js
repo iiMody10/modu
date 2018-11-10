@@ -43,8 +43,7 @@ client.user.setGame(استغفر الله,"http://twitch.tv/Dream%22)
 client.user.setStatus("dnd")
 });
 
-  
-  
+
 
 client.login(process.env.BOT_TOKEN);
 client.login(process.env.BOT_TOKEN2);
